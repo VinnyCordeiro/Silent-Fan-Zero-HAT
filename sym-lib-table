@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "raspberrypi-gpio-40pin-rescue")(type "Legacy")(uri "${KIPRJMOD}/raspberrypi-gpio-40pin-rescue.lib")(options "")(descr ""))
+  (lib (name "SilenFan-rescue")(type "Legacy")(uri "E:/Dropbox/kicad/SilentFanZeroHAT/SilenFan v2/SilenFan-rescue.lib")(options "")(descr ""))
+)
