@@ -1,7 +1,7 @@
 # Silent Fan Zero HAT
 ## A PWM to DC voltage conversion in HAT form factor
 
-This board is based on the work Róbert Lőrincz, from Transylvania, Romania (yes, from the place of Dracula). You can see the original board [here](https://orbiterprojects.com/silent-fan-driver/).
+This board is based on the work of Róbert Lőrincz, from Transylvania, Romania (yes, from the place of Dracula). You can see the original board [here](https://orbiterprojects.com/silent-fan-driver/).
 
 The main purpose of this board is to transform a PWM signal into a DC voltage, with benefits being:
 * Lower fan noise;
