@@ -15,7 +15,7 @@ Also, you (theoretically) can control lower voltage fans with this board by sett
 
 ![](PCB_2.jpg)
 
-(Photos courtesy of Infinite Enthropy, from Voron Discord server)
+(Photos courtesy of Infinite Entropy, from Voron Discord server)
 
 ### UPDATES:
 
