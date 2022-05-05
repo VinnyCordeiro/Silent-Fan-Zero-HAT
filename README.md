@@ -9,7 +9,7 @@ The main purpose of this board is to transform a PWM signal into a DC voltage, w
 * Longer fan lifetime;
 * Lower fan vibrations.
 
-Also, you (theoretically) can control lower voltage fans with this board by setting the maximum fan speed to lower values: using a 24V, you use a maximum fan speed of 50% for a 12V fan, and 20% for a 5V fan.
+Also, you (theoretically) can control lower voltage fans with this board by setting the maximum fan speed to lower values: using a 24V power supply, you'd use a maximum fan speed of 50% for a 12V fan, and 20% for a 5V fan.
 
 ![](PCB_1.png)
 
